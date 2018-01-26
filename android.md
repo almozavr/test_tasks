@@ -39,7 +39,7 @@
 #### 3rd-party dependencies
 
 - [ ] RxJava(1/2) is mandatory
-- [ ] Any persistence approach is ok (e.g.: Room, Realm, SqlBright, etc)
+- [ ] Any persistence approach is ok (e.g.: Room, Realm, SqlBrite, etc)
 - [ ] Logging is not required but is a plus
 
 #### Tests
